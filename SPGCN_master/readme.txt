@@ -1,0 +1,1 @@
+run 'pre' first, then 'test', finally 'final'.
